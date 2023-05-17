@@ -8,16 +8,12 @@
     /* ### Primary */
     --Moderate-violet: hsl(263, 55%, 52%);
 
-    /* name, verified 50%, paragraph 70% -- light color */
     --Very-dark-grayish-blue: hsl(217, 19%, 35%);
-
     --Very-dark-blackish-blue: hsl(219, 29%, 14%);
     --White: hsl(0, 0%, 100%);
 
     /* ### Neutral */
     --Light-gray: hsl(0, 0%, 81%);
-
-    /* name, verified 50%, paragraph 70% -- dark color*/
     --Light-grayish-blue: hsl(210, 46%, 95%);
 }
 body{ font-size: 13px;
@@ -49,8 +45,7 @@ body{ font-size: 13px;
     color: var(--Light-gray);
     opacity: 70%;
 }
-    /* dark-blackish-blue */
-
+    /* Dark-Blackish-Blue */
 .text-color-dark-blackish-blue{
     color: var(--Very-dark-blackish-blue);
 }
