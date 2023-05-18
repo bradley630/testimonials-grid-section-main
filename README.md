@@ -48,7 +48,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [https://www.w3schools.com/cssref/pr_grid-template-areas.php](https://www.w3schools.com/cssref/pr_grid-template-areas.php)   This helped with the testimonial layout.
+- [https://www.w3schools.com/cssref/pr_grid-template-areas.php](https://www.w3schools.com/cssref/pr_grid-template-areas.php)   This helped with the card layout.
 
 
 ## Author
